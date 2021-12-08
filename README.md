@@ -1,2 +1,2 @@
-# dio-avanade-desafio-1
-Desafio de projeto sobre o Git/GitHub
+# Desafio de Projeto sobre o Git/GitHub da Dio
+Repositorio criado para o Desafio de Projeto Avanade
