@@ -1,4 +1,4 @@
-<div><img src="..\dio-avanade-desafio-1\img\dio-avanade-cover.jpg"/></div>
+<div><img src=".\img\dio-avanade-cover.jpg"/></div>
 
 <br>
 <hr>
@@ -19,7 +19,7 @@ Aprendendo as noções basicas de Java Script utilizando funções basica no jog
 
 https://studio.code.org/s/mc/reset
 
-<img src="..\dio-avanade-desafio-1\img\adventure-minecraft-hourofcode.png">
+<img src=".\img\adventure-minecraft-hourofcode.png">
 <br>
 <br>
 
@@ -111,7 +111,7 @@ Uma ferramenta para aprender programação
 
 http://lite.acad.univali.br/portugol
 
-<img src="..\dio-avanade-desafio-1\img\portugol-studio.png">
+<img src=".\img\portugol-studio.png">
 
 
 ## Recursos
@@ -156,7 +156,7 @@ Noções basicas para utilização do Git/GitHub
 
 https://git-scm.com/
 
-<img src="..\dio-avanade-desafio-1\img\git-github.png">
+<img src=".\img\git-github.png">
 
 <br>
 
